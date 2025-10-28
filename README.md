@@ -6,11 +6,11 @@ This project demonstrates how multiple AI agents can collaborate on complex rese
 
 ## 🌟 What This System Does
 
-- **5 specialized AI agents** work together on research tasks
-- Each agent has a unique role (Planner, Engineer, Scientist, Executor, Critic)
-- Agents are automatically **paid in USDC cryptocurrency** for their contributions
-- Uses **Circle's Programmable Wallets** for blockchain transactions
-- Runs on **Solana DevNet** (test network with fake money)
+- **5 specialized AI agents** work together on Auditing an Smart Contract of a Blockchain Network.
+- Each agent has a unique role (Planner, QA Engineer, Executor, Smart-Contract Auditor).
+- Uses **Circle's Programmable Wallets** for blockchain transactions.
+- Validate the Node to Node transaction in the BlockChain Network.
+- Runs on **Solana DevNet** (test network with fake money).
 
 ## 🚀 Quick Start
 
@@ -18,7 +18,7 @@ This project demonstrates how multiple AI agents can collaborate on complex rese
 
 1. **Python 3.9+** - [Download](https://www.python.org/downloads/)
 2. **Node.js v20.17.0+** - [Download](https://nodejs.org/)
-3. **OpenAI API Key** - [Get here](https://platform.openai.com/api-keys)
+3. **OpenAI API Key**(5$-15$) - [Get here](https://platform.openai.com/api-keys)
 4. **Circle Developer Account** (free) - [Sign up](https://console.circle.com/)
 
 ### Installation
