@@ -1,0 +1,16 @@
+{
+  "name": "ai-blockchain-agent",
+  "version": "1.0.0",
+  "description": "AI agents with blockchain payments using Circle Programmable Wallets",
+  "main": "circle_payment.js",
+  "scripts": {
+    "test": "node circle_payment.js"
+  },
+  "keywords": ["ai", "blockchain", "circle", "usdc", "autogen"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@circle-fin/developer-controlled-wallets": "^1.0.0",
+    "dotenv": "^16.0.0"
+  }
+}

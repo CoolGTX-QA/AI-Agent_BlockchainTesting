@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Python
+venv/
+ai_agents_env/
+__pycache__/
+*.py[cod]
+
+# Node.js
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# IDE
+.vscode/
+.idea/
+
+# Project specific
+paper/
+*.log
