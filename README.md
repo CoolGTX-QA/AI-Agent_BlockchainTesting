@@ -1,4 +1,4 @@
-# 🤖 AI Agent Autonomous Payment System with Blockchain
+# 🤖 AI Agent Autonomous Smart-Contract Auditing System in Blockchain
 
 > **Combining AI Agents with Blockchain Payments using Circle's Programmable Wallets**
 
