@@ -59,4 +59,4 @@ MIT License - Feel free to use, modify, and distribute
 
 ---
 
-**Built with ❤️ using Microsoft AutoGen and Circle's Programmable Wallets**
+**Built with ❤️ By Kuljeet From Bugraptors**
