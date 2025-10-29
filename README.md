@@ -19,7 +19,7 @@ This project demonstrates how multiple AI agents can collaborate on complex rese
 1. **Python 3.9+** - [Download](https://www.python.org/downloads/)
 2. **Node.js v20.17.0+** - [Download](https://nodejs.org/)
 3. **OpenAI API Key**(5$-15$) - [Get here](https://platform.openai.com/api-keys)
-4. **Circle Developer Account** (free) - [Sign up](https://console.circle.com/)
+4. **Circle Developer Account** (25$) - [Sign up](https://console.circle.com/)
 
 ### Installation
 
